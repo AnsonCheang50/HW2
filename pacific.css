@@ -40,6 +40,7 @@ nav a:hover {
 h1 {
 	background-image: url("sunset.jpg");
 	background-color: #000033;
+	color: white;
 	background-position: right;
 	background-repeat: no-repeat;
 	margin-bottom: 0;
